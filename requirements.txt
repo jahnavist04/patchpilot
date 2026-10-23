@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+tavily-python
+pip-audit
+bandit
+detect-secrets
+python-dotenv
+pydantic
+pytest
